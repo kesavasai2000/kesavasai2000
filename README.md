@@ -21,8 +21,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **AI Engine
 ## 🔥 Top Repositories
 
 - [SAI-BALAJI-TILES-HOME](https://github.com/kesavasai2000/SAI-BALAJI-TILES-HOME)
-- [TSA_EXP1B](https://github.com/kesavasai2000/TSA_EXP1B)
-- [TSA_EXP1](https://github.com/kesavasai2000/TSA_EXP1)
 - [AI-Tutor-for-STEM-Education](https://github.com/kesavasai2000/AI-Tutor-for-STEM-Education)
 - [FeedHope](https://github.com/kesavasai2000/FeedHope)
 
